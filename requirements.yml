@@ -1,0 +1,16 @@
+name: stsudoku
+ 
+dependencies:
+    - python=3.7
+    - pip>=19.0
+    #- jupyter
+    - tensorflow=2.0
+    - scikit-learn
+    - scipy
+    #- pillow
+    - pip:
+        - streamlit
+        - opencv-python
+        - imutils
+        - py-sudoku
+        

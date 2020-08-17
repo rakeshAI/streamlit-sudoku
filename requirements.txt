@@ -1,8 +1,7 @@
 streamlit
+opencv-python
+pillow
 numpy
 scikit-image
-pillow
-opencv-python
-tensorflow
 imutils
-
+py-sudoku
